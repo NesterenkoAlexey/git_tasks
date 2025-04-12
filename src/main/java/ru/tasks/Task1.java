@@ -5,6 +5,7 @@ public class Task1 {
     private final String myVariable1;
     private final String myVariable2;
 
+    private String newFieldForTask12;
 
     public Task1(String myVariable1, String myVariable2) {
         this.myVariable1 = myVariable1;
